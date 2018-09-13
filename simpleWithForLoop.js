@@ -9,6 +9,17 @@ function* generator() {
 }
 
 let gen = generator()
+
 for (var v of gen) {
+    //iterator value param is logged in every loop iteration
     console.log(v)
 }
+
+gen = generator();
+//dosent do anything
+for (var i in gen) {    
+    console.log(i)
+}
+
+//length dosent exist
+console.log(gen.length)
