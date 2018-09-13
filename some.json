@@ -1,0 +1,89 @@
+{
+    "root": {
+        "pageType": "ViewPage",
+        "channelId": "5d28d21b4580e310VgnVCM2000002a0c10acRCRD",
+        "pageTitle": "ערוץ 12 לייב - שידור חי | צפייה ישירה | makoTV ",
+        "breadcrumb": [
+            {
+                "link": "/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm",
+                "title": "ערוץ 12"
+            },
+            {
+                "link": "/mako-vod-live-tv",
+                "title": "שידורים ישירים"
+            },
+            {
+                "link": "/mako-vod",
+                "title": "ראשי"
+            }
+        ],
+        "video": {
+            "bannerCat": "mako.vod.vod_livetv.lobby,mako.vod.vod_livetv.general,mako.vod.general,mako.general",
+            "makoCatDFP": {
+                "cust_params": {
+                    "deviceid": "%DEVICE_ID%",
+                    "appid": "%APP_ID%",
+                    "devicetype": "%DEVICE_TYPE%",
+                    "advertiserId": "%ADVERTISER_ID%",
+                    "MAKOPAGE": "%GUID%",
+                    "bundleId": "%PRODUCT_BUNDLE_ID%",
+                    "payinguser": "%IS_PAYING_USER%",
+                    "paidContent": "%IS_PAID_CONTENT%",
+                    "makoHN": "%HOUSE_NUMBERS%",
+                    "version": "%VERSION%",
+                    "language": "%LANGUAGE%",
+                    "carrier": "%CARRIER%",
+                    "locale": "%LOCALE%",
+                    "pushTrigger": "%PUSH_TRIGGER%",
+                    "deviceModel": "%DEVICE_MODEL%",
+                    "osType": "%OS_TYPE%",
+                    "osVersion": "%OS_VERSION%",
+                    "pushTags": "%PUSH_TAGS%",
+                    "location_sub_campaign": "%LOCATION_SUB_CAMPAIGN%",
+                    "video_from_time": "%VIDEO_FROM_TIME%",
+                    "random_number": "%RANDOM_NUMBER%"
+                },
+                "iu": "/242748299/mako/vod/vod_livetv/"
+            },
+            "videoFormat": "2",
+            "guid": "6540b8dcb64fd310VgnVCM2000002a0c10acRCRD",
+            "chId": "5d28d21b4580e310VgnVCM2000002a0c10acRCRD",
+            "galleryChId": "6540b8dcb64fd310VgnVCM2000002a0c10acRCRD",
+            "vodClipGalleryId": "",
+            "trailer": "",
+            "title": "ערוץ 12",
+            "url": "/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm",
+            "brief": "שידור ישיר",
+            "countries": "",
+            "year": "",
+            "plot": "הטלוויזיה של ישראל",
+            "languages": "",
+            "duration": "",
+            "trailerLink": "",
+            "editor": "",
+            "editorAss": "",
+            "secondLevelName": "",
+            "secondLevelUrl": "",
+            "director": "",
+            "producer": "",
+            "productionCompany": "",
+            "scriptWriter": "",
+            "creator": "",
+            "cast": "",
+            "participants": "",
+            "hostname": "",
+            "pic": "",
+            "pic_C": "http://img.mako.co.il/2018/04/24/HD-sofi-metukan_c.jpg",
+            "pic_B": "http://img.mako.co.il/2018/04/24/HD-sofi-metukan_b.jpg",
+            "pic_F": "http://img.mako.co.il/2018/04/24/HD-sofi-metukan_f.jpg",
+            "pic_I": "http://img.mako.co.il/2018/04/24/HD-sofi-metukan_i.jpg",
+            "pic_I_reduced": "http://img.mako.co.il/2018/04/24/HD-sofi-metukan_I_reduced.jpg",
+            "trailerType": "CASTUP_HTTP_FILE",
+            "externalTitle": "ערוץ 12 לייב - צפייה ישירה",
+            "vodType": "2",
+            "isPremium": "",
+            "wmvUrl": "",
+            "date": "10/11/16"
+        }
+    }
+}
